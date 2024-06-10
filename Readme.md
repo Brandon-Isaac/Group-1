@@ -1,4 +1,4 @@
 # Group 1 Assignments
 
-- This s a repository built on purpose for the group work Assignment given on 29/05/2024.
+- This a repository built on purpose for the group work Assignment given on 29/05/2024.
 - Lets commit and collaborate on the relevant areas as assigned🎉🎉
