@@ -40,6 +40,26 @@ printf("%d is not prime\n",n);
 }
 ```
 
+2. Write a program that prompts the user for a positive integer and then reports the
+closest integer having a whole number square root. For example, if the user enters
+8, then the program reports 9. If the user enters 18, then the program reports 16.
+The program should work for any number having one to seven digits.
+
+3. Write a program that prompts the user for a positive integer and then computes
+the sum of all the digits of the number. For example, if the user enters 2784, then
+the program reports 21. If the user enters 59, then the program reports 14. The
+program should work for any number having one to ten digits.
+
+4. You are tasked with writing a program that manages contact information for
+a group of people. The program should save the ﬁrst name, last name, and
+telephone number for up to 12 people. The program should have options to
+add a person, delete a person, update the information for a person, and display
+all information for all current entries. How could you go about breaking up
+the programming work into a set of subproblems that could be implemented
+separately? Describe the subproblems, the order in which you would work on
+them, and any testing you would do for each subproblem before proceeding to
+the next.
+
 ## Authors
 
 - **@waltertaya**
