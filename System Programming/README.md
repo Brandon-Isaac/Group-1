@@ -63,7 +63,7 @@ the next.
 ## Authors
 
 - **@waltertaya**
-- **@clint171**
+- **@Clint171**
 - **@lewmas**
 - **@chegebb**
 - **@baruk_netizen**
