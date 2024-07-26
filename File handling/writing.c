@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
         return EXIT_FAILURE;
     }
 
-    // Open the file in write mode
+    //Here we Open the file in write mode
     file = fopen("sample.txt", "w");
     if (file == NULL) {
         perror("Error opening file");
