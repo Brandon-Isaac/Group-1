@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
         return EXIT_FAILURE;
     }
 
-    // Close the file
+    // This closes the file
     fclose(file);
 
     printf("String written to file successfully.\n");
