@@ -4,7 +4,6 @@
 int main(int argc, char *argv[]) {
     FILE *file;
 
-    // Check if a string is provided as a command-line argument
     if (argc < 2) {
         fprintf(stderr, "Usage: %s <string to write>\n", argv[0]);
         return EXIT_FAILURE;
